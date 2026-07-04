@@ -1,5 +1,4 @@
 # my-first-repo
 1st repository of mine
 <br>
-Author: Ck Maha
-ra
+Author: Ck Mahara
